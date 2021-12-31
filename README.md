@@ -1,0 +1,1 @@
+This is Git_Project_2 directory.
